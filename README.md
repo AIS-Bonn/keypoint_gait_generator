@@ -38,8 +38,7 @@ Refer to the help of these two functions to see which arguments can be provided.
 
 ## Where To Get More Help?
 If a look into the source code does not resolve an issue you have with the
-software, then you can contact the author at the email address given in the
-*Bugs and Improvements* section.
+software, then you can open a GitHub issue.
 
 ## Bugs and Improvements
 I welcome all feedback, suggestions and bug reports (by opening a GitHub issue).
